@@ -17,7 +17,8 @@ Like `tmuxinator`, except your agents are already running.
 ---
 
 <div align="center">
-  <img src="assets/showcase.gif" alt="Poly Grid demo — broadcast prompts across three AI agents at once" />
+  <img src="assets/preset-cold-start.gif" alt="Poly Grid demo — click a preset, the whole grid spins up with agents already running" />
+  <p><sub><a href="assets/preset-cold-start.mp4">↗ Watch full quality (MP4)</a></sub></p>
 </div>
 
 ---
@@ -41,6 +42,16 @@ Like `tmuxinator`, except your agents are already running.
 
 ---
 
+## Broadcast in action
+
+Type once, send to every selected pane. Same prompt, three agents, instant compare.
+
+<div align="center">
+  <img src="assets/showcase.gif" alt="Broadcast prompts across three AI agents in parallel" />
+</div>
+
+---
+
 ## Why not just tmux?
 
 tmux is free, scriptable, and great. If you've already wired up a `tmuxrc` plus `tmuxinator` for your AI workflow, you probably don't need this.
@@ -52,8 +63,8 @@ Poly Grid is for the rest of us — people who want the rig pre-built, not scrip
 ## Install
 
 1. Download the latest DMG from **[Releases](https://github.com/tiny-cloud-ventures/poly-grid/releases/latest)**:
-   - `Poly-Grid-1.0.0-arm64.dmg` — Apple Silicon
-   - `Poly-Grid-1.0.0.dmg` — Intel
+   - `Poly-Grid-<version>-arm64.dmg` — Apple Silicon
+   - `Poly-Grid-<version>.dmg` — Intel
 2. Open the DMG and drag **Poly Grid.app** into your Applications folder.
 3. Launch. The first time, macOS may ask you to confirm the app — it's signed and notarized by Apple, so right-click → Open is enough.
 
