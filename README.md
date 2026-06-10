@@ -42,12 +42,27 @@ Like `tmuxinator`, except your agents are already running.
 
 ---
 
-## Broadcast in action
+## See it in action
 
-Type once, send to every selected pane. Same prompt, three agents, instant compare.
+### Broadcast — type once, ship to many
 
 <div align="center">
-  <img src="assets/showcase.gif" alt="Broadcast prompts across three AI agents in parallel" />
+  <img src="assets/broadcast.gif" alt="Broadcast: one prompt, three agents responding in parallel" />
+  <p><sub><a href="assets/broadcast.mp4">↗ Watch full quality (MP4)</a></sub></p>
+</div>
+
+### MCP — Claude Desktop, Cursor, and Cline drive your panes
+
+<div align="center">
+  <img src="assets/mcp.gif" alt="MCP: external agent reading and writing a Poly Grid pane over localhost" />
+  <p><sub><a href="assets/mcp.mp4">↗ Watch full quality (MP4)</a></sub></p>
+</div>
+
+### `@mentions` — hand context between agents
+
+<div align="center">
+  <img src="assets/pane-read.gif" alt="@mention expansion: pulling the last 50 lines of one pane into another agent's prompt" />
+  <p><sub><a href="assets/pane-read.mp4">↗ Watch full quality (MP4)</a></sub></p>
 </div>
 
 ---
