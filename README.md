@@ -51,25 +51,32 @@ every one of them is doing.
 
 ## See it in action
 
-### Broadcast — type once, ship to many
+### Live fleet status — every agent's state, at a glance
 
 <div align="center">
-  <img src="assets/broadcast.gif" alt="Broadcast: one prompt, three agents responding in parallel" />
-  <p><sub><a href="assets/broadcast.mp4">↗ Watch full quality (MP4)</a></sub></p>
+  <img src="assets/fleet.gif" alt="Live fleet status: panes changing state as agents work, the triage strip surfacing the one that needs you" />
+  <p><sub><a href="assets/fleet.mp4">↗ Watch full quality (MP4)</a></sub></p>
 </div>
 
-### MCP — Claude Desktop, Cursor, and Cline drive your panes
+### Sentinel — a safety net watching every pane
+
+<div align="center">
+  <img src="assets/sentinel.gif" alt="Sentinel flagging a stuck agent and surfacing an alert in the triage strip" />
+  <p><sub><a href="assets/sentinel.mp4">↗ Watch full quality (MP4)</a></sub></p>
+</div>
+
+### MCP — Claude Desktop and Cursor drive your panes
 
 <div align="center">
   <img src="assets/mcp.gif" alt="MCP: external agent reading and writing a Poly Grid pane over localhost" />
   <p><sub><a href="assets/mcp.mp4">↗ Watch full quality (MP4)</a></sub></p>
 </div>
 
-### `@mentions` — hand context between agents
+### Webserver — your whole fleet, on your phone
 
 <div align="center">
-  <img src="assets/pane-read.gif" alt="@mention expansion: pulling the last 50 lines of one pane into another agent's prompt" />
-  <p><sub><a href="assets/pane-read.mp4">↗ Watch full quality (MP4)</a></sub></p>
+  <img src="assets/webserver.gif" alt="Poly Grid webserver: a pane's live output mirrored on a phone, with input sent back" />
+  <p><sub><a href="assets/webserver.mp4">↗ Watch full quality (MP4)</a></sub></p>
 </div>
 
 ---
